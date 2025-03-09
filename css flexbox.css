@@ -21,7 +21,8 @@ body{
   }
   section{
     display: flex;
-    flex-direction: row row-reverse column column-reverse;
+    flex-direction: row ;
     zoom: 0.8 ;
     flex-wrap: wrap;
+    justify-content: center;
   }
